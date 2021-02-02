@@ -11,6 +11,7 @@ El mismo analiza lo siguiente:
 * Fuerzas presentes en cada una de las uniones
 * Esfuerzos presentes en cada una de las uniones
 * Muestra estos datos para cualquier posicion en la que se encuentre el mecanismo
+* Momentos de Inercia
 * Torque de entrada necesario
 * Costo de la construcción
 * Dando resultados en diferentes materiales para comparar
