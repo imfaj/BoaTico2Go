@@ -39,11 +39,44 @@ Al introducir los siguientes datos: <br>
 1. Seleccione el material con el que desea diseñar el mecanismo levanta botes. <br>
 ![Material](./AppImages/material.png) <br>
 1. Seleccione si desea introducir la velocidad o la aceleración angular por medio del interruptor. <br>
-![AcelVel](./AppImages/Acelvel.png) <br>
+![AcelVel](./AppImages/AcelVel.png) <br>
 1. Seleccione la magnitud respectiva del valor de entrada anterior por medio del selector giratorio. <br>
 ![Selector](./AppImages/Selector.png)<br>
 1. Cuando se hayan introducido los datos se debe hacer click en el boton _Diseñar mi Mecanismo_. <br>
-![Disenar](./AppImages/Disenar.png)
+![Disenar](./AppImages/disenar.png)
 <br>
+1. En la pestaña **Mecanismo** se presenta la imagen de la maqueta o prototipo que se diseño, una imagen de la simulación y los señalamientos de referencia utiles para una mejor comprensión del analisis. <br>
+Se describen detalles del diseño y posteriormente los momentos de inercia correspondientes. <br>
+**Nota:** El programa puede tardar en obtener los resultados debido a la complejidad de los calculos. <br>
+![Mecanismo](./AppImages/Mecanismo.png)<br>
+1. En la pestaña **Fuerzas**, se muestran las magnitudes de las fuerzas que afectan diferentes puntos del mecanimo. Al lado derecho superior se puede seleccion la posición ( angulo ) para el cual se desean conocer las magnitudes. <br>
+![Fuerzas](./AppImages/Fuerzas.png)
+<br>
+1. En la pestaña **Esfuerzos**, se muestran las magnitudes de los esfuerzos que afectan diferentes puntos del mecanimo. Al lado derecho superior se puede seleccion la posición ( angulo ) para el cual se desean conocer las magnitudes. <br>
+![Esfuerzos](./AppImages/Esfuerzos.png)
+<br>
+1. En la pestaña **Momento**, se muestran la magnitud del momento de entrada. Al lado derecho superior se puede seleccion la posición ( angulo ) para el cual se desea conocer la magnitud. <br>
+Abajo se grafica el momento de entrada en función del angulo de entrada. <br>
+![Momento](./AppImages/Momento.png)
+<br>
+1. En la pestaña **F. Sacudimiento**, se muestran gráficas con las fuerzas de sacudimiento en función del angulo de entrada para los puntos denominados O y C.<br>
+![Sacu](./AppImages/Sacu.png)
+<br>
+1. En la pestaña **Simplificación**, se muestran las magnitudes correspondientes al analisis del mecanimo de manera simplificada.<br>
+![Simpli](./AppImages/Simpli.png)
+<br>
+1. En la pestaña **F. Sac. Balanc**, se muestran gráficas con las fuerzas de sacudimiento del mecanismo balanceado en función del angulo de entrada para los puntos denominados O y C.<br>
+![SacuBalanc](./AppImages/SacuBalanc.png)
+<br>
+1. En la pestaña **Momento Balanc**, se muestra la gráfica del momento de entrada correspondiente según el angulo de entrada para el caso del mecanismo balanceado.<br>
+![MomentBalanc](./AppImages/MomentBalanc.png)
+<br>
+1. En la pestaña **Costo**, se muestra la masa necesaria para la elaboración del producto, el costo en colones por kilogramo y el costo final considerando honorarios.<br>
+![Costo](./AppImages/Costo.png)
+<br>
+1. En la pestaña **BoaTico2Go**, se deja el contacto a la "empresa".<br>
+![Contacto](./AppImages/Gracias.png)
+<br>
+
 ___
 ___
