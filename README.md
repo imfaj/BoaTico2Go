@@ -1,5 +1,5 @@
 # BoaTico2Go
-![BoaTico2Go](./2.png)
+![BoaTico2Go](./2.PNG)
 ___
 
 Programa hecho en Matlab usando App Designer, para simular el software de una empresa ficticia (BoaTico2Go) que construye mecanismos para levantar botes en diferentes materiales. <br>
