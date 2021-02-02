@@ -20,7 +20,7 @@ Al introducir los siguientes datos: <br>
 * Dimensiones del bote
 * Peso del bote
 * Material del que desea construir el mecanismo ( El programa tiene las opciones de material )
-* Velocidad y aceleración angular de entrada
+* Velocidad o aceleración angular de entrada
 <br>
 <br>
 
@@ -32,7 +32,16 @@ Al introducir los siguientes datos: <br>
 
 1. Se abrira el programa listo para utilizar. Se deben introducir los datos iniciales que se solicitan en la pestaña Datos. <br>
 ![AppIniciada](./AppImages/AppIniciada.png) <br>
-
+1. Introduzca el nombre del cliente. <br>
+![Nombre](./AppImages/Nombre.png)<br>
+1. Introduzca las dimensiones de su bote. <br>
+![Dimensiones](./AppImages/Dimensiones.png) <br>
+1. Seleccione el material con el que desea diseñar el mecanismo levanta botes. <br>
+![Material](./AppImages/material.png) <br>
+1. Seleccione si desea introducir la velocidad o la aceleración angular por medio del interruptor. <br>
+![AcelVel](./AppImages/Acelvel.png) <br>
+1. Seleccione la magnitud respectiva del valor de entrada anterior por medio del selector giratorio. <br>
+![Selector](./AppImages/Selector.png)<br>
 1. Cuando se hayan introducido los datos se debe hacer click en el boton _Diseñar mi Mecanismo_. <br>
 ![Disenar](./AppImages/Disenar.png)
 <br>
