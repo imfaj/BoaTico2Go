@@ -28,8 +28,8 @@ Al introducir los siguientes datos: <br>
 ## Como se Utiliza?
 ---
 1. Se debe tener instalado Matlab. Para iniciar el programa dar doble click al mismo en la carpeta donde se ubique. <br>
-  ![icon](./AppImages/icon.png)
-<br>
+  ![icon](./AppImages/icon.png)<br>
+  **Nota:** Si no se abre o se abre de manera incorrecta, escribir en la ventana de comandos o Command Window _**appdesigner**_ y abrir desde la ventana emergente.
 
 1. Se abrira el programa listo para utilizar. Se deben introducir los datos iniciales que se solicitan en la pestaña Datos. <br>
 ![AppIniciada](./AppImages/AppIniciada.png) <br>
